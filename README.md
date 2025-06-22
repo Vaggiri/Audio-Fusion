@@ -1,6 +1,6 @@
 # 🎧 AudioFusionX – Vocal & BGM Mixer with DSP Analysis
 
-Welcome to **AudioFusionX**, a Python-based audio signal processing project developed during our lab sessions. This tool loads separate **vocal** and **background music (BGM)** audio files, mixes them with **custom speed and blend ratios**, and then visualizes both the **time** and **frequency domain** representations.
+Welcome to **AudioFusionX**, a Python-based audio signal processing project developed this as end sem project sessions. This tool loads separate **vocal** and **background music (BGM)** audio files, mixes them with **custom speed and blend ratios**, and then visualizes both the **time** and **frequency domain** representations.
 
 ---
 
